@@ -1,0 +1,21 @@
+# Environment
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Vector DB
+db/
+*.sqlite3
+
+# Data files
+data/
+*.pdf
+
+# Temp files
+temp_report.pdf
+
+# OS
+.DS_Store
+Thumbs.db
